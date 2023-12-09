@@ -1,18 +1,31 @@
-Todo-List Web Application
+#Todo-List Web Application
+
 This project is a simple Todo-List web application built using HTML, CSS, and JavaScript. It allows users to add tasks with specific due dates and delete them as needed.
 
 Features
+
 Add Tasks: Input task names and their corresponding due dates.
+
 Delete Tasks: Remove tasks from the list individually.
+
 Usage
+
 Clone or download the repository.
+
 Open index.html in a web browser.
+
 Structure
+
 index.html: Contains the structure and layout of the web page.
+
 styles.css: Defines the styles and layout of the elements on the page.
+
 script.js: Implements the functionality of adding tasks, deleting tasks, and updating the display.
+
 How to Run
+
 Simply open the index.html file in a web browser to use the Todo-List application.
+
 Description:
 
 This Todo-List web application allows users to manage their tasks by providing an interface to add new tasks along with their due dates and delete existing tasks. The application's structure is divided into three main files:
